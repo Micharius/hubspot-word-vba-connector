@@ -14,13 +14,13 @@ For specific templates in my company, I also refer to a specific cells in a tabl
 
 ## Technical Prerequisites
 To run this project, ensure the following references are enabled in your VBA Editor (**Tools > References**):
-* `Visual Basic For Applications
-* `Microsoft Word 16.0 Object Library
-* `OLE Automation
-* `Microsoft Office 16.0 Object Library
-* `Microsoft Forms 2.0 Object Library
-* `Microsoft Scripting Runtime
-* `Microsoft Forms 2.0 Object Library`
+* Visual Basic For Applications
+* Microsoft Word 16.0 Object Library
+* OLE Automation
+* Microsoft Office 16.0 Object Library
+* Microsoft Forms 2.0 Object Library
+* Microsoft Scripting Runtime
+* Microsoft Forms 2.0 Object Library`
 
 ## Installation
 1. Download the source files (`.bas`, `.cls`, `.frm`, `.frx`).
@@ -53,14 +53,14 @@ This project is licensed under the MIT License.
 ## Populate your document
 Bookmarks I use are:
 
-* `bkmConName
-* `bkmConEmail
-* `bkmCustAddress1
-* `bkmCustAddress2
-* `bkmCustWebAddress
-* `bkmConPhone
-* `bkmConMobile
-* `bkmCustWebAddress
+* bkmConName
+* bkmConEmail
+* bkmCustAddress1
+* bkmCustAddress2
+* bkmCustWebAddress
+* bkmConPhone
+* bkmConMobile
+* bkmCustWebAddress
 
 Custom document properties I use are:
 * `prpCustCompany
